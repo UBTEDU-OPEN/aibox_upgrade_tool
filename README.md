@@ -1,2 +1,1 @@
-# aibox_upgrade_tool
-aibox 升级工具
+Aibox系统升级工具

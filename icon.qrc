@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/ic_close.svg</file>
+        <file>icon/ic_minimize.svg</file>
+        <file>icon/ic_tips_warning.svg</file>
+        <file>icon/ic_title.png</file>
+        <file>icon/ic_warning_red.png</file>
+        <file>icon/ic_warning_yellow.png</file>
+        <file>icon/ic_marquee_selected.png</file>
+        <file>icon/ic_marquee_unselected.png</file>
+        <file>icon/ic_add.png</file>
+        <file>icon/img_remove_fail.png</file>
+        <file>icon/img_remove_success.png</file>
+        <file>icon/loading.gif</file>
+        <file>languages/upgrade_tool_en_US.qm</file>
+        <file>languages/upgrade_tool_zh_CN.qm</file>
+    </qresource>
+</RCC>
